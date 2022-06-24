@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\PetStore\\PetStore\\PetStore.csproj",
+      "projectUniqueName": "C:\\Repos\\github-petstore\\petstore\\PetStore\\PetStore.csproj",
       "projectName": "PetStore",
-      "projectPath": "C:\\Repos\\PetStore\\PetStore\\PetStore.csproj",
+      "projectPath": "C:\\Repos\\github-petstore\\petstore\\PetStore\\PetStore.csproj",
       "packagesPath": "C:\\Users\\abedin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\PetStore\\PetStore\\obj\\",
+      "outputPath": "C:\\Repos\\github-petstore\\petstore\\PetStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abedin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,11 +70,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Repos\\PetStore\\PetStore.Domain\\PetStore.Domain.csproj": {
-              "projectPath": "C:\\Repos\\PetStore\\PetStore.Domain\\PetStore.Domain.csproj"
+            "C:\\Repos\\github-petstore\\petstore\\PetStore.Domain\\PetStore.Domain.csproj": {
+              "projectPath": "C:\\Repos\\github-petstore\\petstore\\PetStore.Domain\\PetStore.Domain.csproj"
             },
-            "C:\\Repos\\PetStore\\PetStore.Repository\\PetStore.Repository.csproj": {
-              "projectPath": "C:\\Repos\\PetStore\\PetStore.Repository\\PetStore.Repository.csproj"
+            "C:\\Repos\\github-petstore\\petstore\\PetStore.Repository\\PetStore.Repository.csproj": {
+              "projectPath": "C:\\Repos\\github-petstore\\petstore\\PetStore.Repository\\PetStore.Repository.csproj"
             }
           }
         }

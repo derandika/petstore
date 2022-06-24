@@ -16,14 +16,7 @@ namespace PetStore.Tests
     [TestOf(typeof(PetStoreRepository))]
     public class PetStoreRepositoryTest 
     {
-        private MockPetStoreApi _mockPetStoreApi;
         private PetStoreRepository _petStoreRepository;
-
-        [SetUp]
-        public void SetUp()
-        {
-            _mockPetStoreApi = new MockPetStoreApi();
-        }
 
         [Test]
         public void GetPetByStatusNoRecordsReturned()

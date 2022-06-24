@@ -3,3 +3,8 @@ C:\Repos\PetStore\PetStore.Domain\bin\Debug\PetStore.Domain.pdb
 C:\Repos\PetStore\PetStore.Domain\obj\Debug\PetStore.Domain.csproj.CoreCompileInputs.cache
 C:\Repos\PetStore\PetStore.Domain\obj\Debug\PetStore.Domain.dll
 C:\Repos\PetStore\PetStore.Domain\obj\Debug\PetStore.Domain.pdb
+C:\Repos\github-petstore\petstore\PetStore.Domain\bin\Debug\PetStore.Domain.dll
+C:\Repos\github-petstore\petstore\PetStore.Domain\bin\Debug\PetStore.Domain.pdb
+C:\Repos\github-petstore\petstore\PetStore.Domain\obj\Debug\PetStore.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\github-petstore\petstore\PetStore.Domain\obj\Debug\PetStore.Domain.dll
+C:\Repos\github-petstore\petstore\PetStore.Domain\obj\Debug\PetStore.Domain.pdb
