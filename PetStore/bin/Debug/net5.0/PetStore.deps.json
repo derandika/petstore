@@ -1,0 +1,115 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PetStore/1.0.0": {
+        "dependencies": {
+          "PetStore.Domain": "1.0.0",
+          "PetStore.Repository": "1.0.0"
+        },
+        "runtime": {
+          "PetStore.dll": {}
+        }
+      },
+      "PetStore.Domain/1.0.0": {
+        "runtime": {
+          "PetStore.Domain.dll": {}
+        }
+      },
+      "PetStore.Repository/1.0.0": {
+        "dependencies": {
+          "PetStore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PetStore.Repository.dll": {}
+        }
+      },
+      "RestSharp/106.15.0.0": {
+        "runtime": {
+          "RestSharp.dll": {
+            "assemblyVersion": "106.15.0.0",
+            "fileVersion": "106.15.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/7.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.30112"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/7.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.30112"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/3.1.26.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/7.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.30112"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetStore.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.15.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Json/3.1.26.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Primitives/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
